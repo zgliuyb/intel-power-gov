@@ -148,4 +148,5 @@ Revision History
 - Enabled suport for IVB-EP, HSW-EP, BDW-EP, SKX server
 (The PP0 power plane does not report any readings on HSW, BDW, SKX
 
-
+-----------------------
+https://software.intel.com/en-us/articles/intel-power-governor
